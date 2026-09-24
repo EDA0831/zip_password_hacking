@@ -1,0 +1,5 @@
+   *.txt
+   !requirements.txt
+   ZIP_PASSWORD.txt
+   __pycache__/
+   .venv/
