@@ -1,5 +1,17 @@
-   *.txt
-   !requirements.txt
-   ZIP_PASSWORD.txt
-   __pycache__/
-   .venv/
+# 워드리스트 (용량 크고 재배포 부적절 — 각자 받아서 넣기)
+*.txt
+!requirements.txt
+ 
+# 크랙 결과물
+ZIP_PASSWORD.txt
+S_ID_PASSWORD.txt
+ 
+# 파이썬 / 환경
+__pycache__/
+*.pyc
+.venv/
+venv/
+ 
+# 테스트용 zip
+test.zip
+ 
