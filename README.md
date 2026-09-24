@@ -42,7 +42,7 @@ colorama
 ## 사용법
 
 ```bash
-python zip_cracker.py
+python zip_password.py
 ```
 
 ```
